@@ -1,0 +1,17 @@
+.new {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h5 {
+  font-family: sans-serif;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+a{
+  margin: 10px;
+  font-family: sans-serif;
+}
